@@ -110,3 +110,10 @@ ps
 -ef //显示所有命令，连带命令行
 -u root //显示root进程用户信息
 ```
+
+## PSR
+
+[中文版PSR](http://psr.phphub.org/)  
+
+[GitHub上的原装货](https://github.com/php-fig/fig-standards/tree/master/accepted)  
+
